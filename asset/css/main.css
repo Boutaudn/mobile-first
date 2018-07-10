@@ -1,5 +1,5 @@
 #cards {
-  padding: 5%;
+  padding: 7%;
 }
 
 .card-img-top{
@@ -8,5 +8,20 @@
 
 #testimonios {
   padding: 2%;
-  text-align: center
+  text-align: center;
+}
+
+#contacto {
+  background-color: #FB7F73;
+  color: aliceblue;
+  padding: 5%;  
+}
+
+#contactanos {
+  text-align: center;
+  padding: 3%;
+}
+
+.iconos {
+  text-align: center;
 }
